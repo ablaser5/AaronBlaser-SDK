@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-pip install lord_of_the_rings
+pip install AaronBlaser-SDK==1.0
 ```
 
 ## Usage
