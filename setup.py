@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="AaronBlaser-SDK",
-    version="1.0",
+    version="1.0.1",
     author="Aaron Blaser",
     author_email="ablaser5@comcast.net",
     description="SDK for the lord of the rings API",

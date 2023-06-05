@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-pip install AaronBlaser-SDK==1.0
+pip install AaronBlaser-SDK==1.0.1
 ```
 
 ## Usage
